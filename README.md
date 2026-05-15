@@ -1,5 +1,5 @@
-SMART LED CONTROLLER (ESP32-C3 + VEML7700)
-
+SMART LED CONTROLLER
+ ESP32-S3/C3 + VEML7700 + LD2420 v2.1
 ------------------------------------------------------------
 
     HARDWARE
