@@ -2,12 +2,15 @@ SMART LED CONTROLLER (ESP32-C3 + VEML7700)
 
 ------------------------------------------------------------
 
-HARDWARE
-    MCU: ESP32-C3
-    Light sensor: VEML7700 (ambient lux sensor)
-    LED output: 12-bit PWM (LEDC hardware PWM)
-    Input: single button (short + long press)
-    Optional: WiFi for web interface
+    HARDWARE
+        MCU: ESP32-C3
+        Light sensor: VEML7700 (ambient lux sensor)
+        LED output: 12-bit PWM (LEDC hardware PWM)
+        Input: single button (short + long press)
+        Optional: WiFi for web interface
+<p align="center">
+  <img src="./esp32c3_annotated_v3.png" alt="PinOutESP32C3" style="max-width:50%;height:auto;">
+</p>      
 
 ------------------------------------------------------------
 
